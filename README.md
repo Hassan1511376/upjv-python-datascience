@@ -20,6 +20,7 @@ Python & Data Science réalisés sur Google Colab.
 | [TD5](td05_enonce.iypnb) | Matplotlib, dictionnaires et Pandas |✅|:
 | [TD6](td06_enonce.iypnb) | Logique, flux de contrôle et boucles|✅|:
 | [TD7](td07_enonce.iypnb) | Étude de cas et mini-projet 1|✅|:
+| [TD8](td08_enonce.iypnb) | Pandas : agrégation et transformation |✅|:
 ## Crédits
 
 Cours de M. Guéry — Faculté d'Économie, UPJV
